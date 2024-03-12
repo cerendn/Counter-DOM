@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+#increase , #decrease{
+    color: rgb(255, 26, 224);
+    background-color: antiquewhite;
+    border-radius: 5px;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+#counter{
+    color:fuchsia;
+}
+#greeting{
+    color:bisque;
+}
