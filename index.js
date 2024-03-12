@@ -21,6 +21,6 @@ function clickEvent() {
     if(this.id === "increase") {
         counterDOM.innerHTML = counter += 1
     } else {
-        counterDOM.innerHTML = counter += 1
+        counterDOM.innerHTML = counter -= 1
     }
 }
